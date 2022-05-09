@@ -1,0 +1,3 @@
+GO111MODULE=on
+GOPATH=/home/lqlklu/dev/go
+GOPROXY=https://goproxy.cn,direct
