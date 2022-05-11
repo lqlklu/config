@@ -18,7 +18,6 @@ link_config() {
 
 link ".bashrc"
 link ".clang-format"
-link ".gitconfig"
 link ".profile"
 link ".vimrc"
 link ".xinitrc"
