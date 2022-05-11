@@ -40,4 +40,5 @@ link_config "ranger"
 link_config "rofi"
 link_config "sway"
 link_config "waybar"
+link_config "wezterm"
 
